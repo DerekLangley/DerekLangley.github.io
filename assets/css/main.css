@@ -2008,30 +2008,16 @@ input, select, textarea {
 			text-shadow: 1px 1px 0px #fff;
 		}
 
-		.wrapper.style4 {
+		.wrapper.contact {
 			background-color: #303030;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
 
-			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
+			.wrapper.contact h1, .wrapper.contact h2, .wrapper.contact h3, .wrapper.contact h4, .wrapper.contact h5, .wrapper.contact h6 {
 				color: #fff;
 			}
 
-			.wrapper.style4 form input[type=text],
-			.wrapper.style4 form input[type=password],
-			.wrapper.style4 form select,
-			.wrapper.style4 form textarea {
-				border: none;
-				background: #282828;
-			}
-
-				.wrapper.style4 form input[type=text]:focus,
-				.wrapper.style4 form input[type=password]:focus,
-				.wrapper.style4 form select:focus,
-				.wrapper.style4 form textarea:focus {
-					background: #252525;
-				}
 
 /* Nav */
 
@@ -2200,7 +2186,7 @@ input, select, textarea {
 				text-align: center;
 			}
 
-				.wrapper.style4 .row-special {
+				.wrapper.contact .row-special {
 					margin: 2em 0 0 0;
 					padding: 2em 0 2em 0;
 				}
